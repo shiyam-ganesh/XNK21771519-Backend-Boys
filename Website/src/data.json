@@ -1,0 +1,155 @@
+[{
+    "ModelName":"Maruti Suzuki Alto",
+    "FuelType":"Petrol",
+    "Mileage":22.05,
+    "ImageURL":"https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/Alto800_Blazing_Red_new.png?resize=680%2C398&ssl=1",
+    "CarType":"Hatchback"
+},
+{
+    "ModelName":"Maruti Suzuki  Celerio",
+    "FuelType":"Petrol",
+    "Mileage":21.05,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/USE-THIS-RED.png?resize=680%2C398&ssl=1",
+    "CarType":"Hatchback"
+},
+{
+    "ModelName":"Maruti Suzuki WagonR",
+    "FuelType":"Petrol",
+    "Mileage":21.79,
+    "ImageURL":"https://i1.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/POOLSIDE-BLUE.png?w=718&ssl=1",
+    "CarType":"Hatchback"
+},
+{
+    "ModelName":"Maruti Suzuki Spresso",
+    "FuelType":"Petrol",
+    "Mileage":21.7,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/orange.png?w=650&ssl=1",
+    "CarType":"SUV"
+},
+{
+    "ModelName":"Tata Tigor",
+    "FuelType":"Petrol",
+    "Mileage":20.3,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/tigor-home-banner-desktop.png?resize=768%2C260&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Honda Amaze",
+    "FuelType":"Petrol",
+    "Mileage":18.6,
+    "ImageURL":"https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/honda-amaze.jpg?resize=696%2C336&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Ford Aspire",
+    "FuelType":"Petrol",
+    "Mileage":18.5,
+    "ImageURL":"https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/ass.png?resize=696%2C299&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Hyundai Aura",
+    "FuelType":"Petrol",
+    "Mileage":20.5,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/Revised-Pc-MainKv-1.jpg?resize=696%2C202&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Maruti Suzuki Dzire",
+    "FuelType":"Petrol",
+    "Mileage":24.12,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/new-hero-shot-dk-Dzire.png?resize=696%2C300&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Maruti Suzuki Ciaz",
+    "FuelType":"Petrol",
+    "Mileage":20.65,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/ORIGINAL-CAR1.png?resize=768%2C325&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Maruti Suzuki Eeco",
+    "FuelType":"Petrol",
+    "Mileage":16.11,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/Eecomasthead_D-v1.jpg?resize=768%2C318&ssl=1",
+    "CarType":"SUV"
+},
+{
+    "ModelName":"Renault Kwid",
+    "FuelType":"Petrol",
+    "Mileage":24.04,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/Final-Ar_Vk_Kwid-Climber_KV2-Shot_Studio_V6.jpg.ximg_.l_8_m.smart_.jpg?w=800&ssl=1",
+    "CarType":"Hatchback"
+},
+{
+    "ModelName":"Tata Altroz",
+    "FuelType":"Diesel",
+    "Mileage":24.08,
+    "ImageURL":"https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/new-banner-2020.jpg?resize=696%2C283&ssl=1",
+    "CarType":"Hatchback"
+},
+{
+    "ModelName":"Tata Nexon",
+    "FuelType":"Diesel",
+    "Mileage":22.01,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/key-feature-05.jpg?resize=799%2C420&ssl=1",
+    "CarType":"SUV"
+},
+{
+    "ModelName":"Ford Figo",
+    "FuelType":"Diesel",
+    "Mileage":24.0,
+    "ImageURL":"https://i1.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/maxresdefault-26.jpg?resize=768%2C432&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Ford Aspire",
+    "FuelType":"Diesel",
+    "Mileage":24.4,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/03/47456_2018FORD-ASPIRE.jpg?resize=696%2C392&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Honda Amaze",
+    "FuelType":"Diesel",
+    "Mileage":24.7,
+    "ImageURL":"https://i1.wp.com/gomechanic.in/blog/wp-content/uploads/2020/01/2018-Honda-Amaze-South-AFrica.jpg?resize=586%2C331&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Hyundai Grand i10 Nios",
+    "FuelType":"Diesel",
+    "Mileage":26.0,
+    "ImageURL":"https://i0.wp.com/gomechanic.in/blog/wp-content/uploads/2020/02/1567148516-Hyundai_GRAND_i10_NIOS_1.jpg?resize=768%2C576&ssl=1",
+    "CarType":"Hatchback"
+},
+{
+    "ModelName":"Ford Ecosport",
+    "FuelType":"Diesel",
+    "Mileage":22.0,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/03/ford-ecosport-822748a4.jpg?resize=768%2C576&ssl=1",
+    "CarType":"SUV"
+},
+{
+    "ModelName":"Hyundai Verna",
+    "FuelType":"Diesel",
+    "Mileage":22.0,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/Hyundai_Verna_Exterior_top_PC_1600x580.jpg?resize=696%2C253&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Hyundai Aura",
+    "FuelType":"Diesel",
+    "Mileage":25.0,
+    "ImageURL":"https://i2.wp.com/gomechanic.in/blog/wp-content/uploads/2020/01/Hyundai-Aura-Car-Review-01.jpg?resize=768%2C512&ssl=1",
+    "CarType":"Sedan"
+},
+{
+    "ModelName":"Ford Freestyle",
+    "FuelType":"Diesel",
+    "Mileage":24.02,
+    "ImageURL":"https://i1.wp.com/gomechanic.in/blog/wp-content/uploads/2020/04/Ford-Freestyle-Right-Front-Three-Quarter-135525-1.jpg?resize=696%2C393&ssl=1",
+    "CarType":"Hatchback"
+}
+]
